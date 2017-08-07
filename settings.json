@@ -1,0 +1,13 @@
+// 將您的設定放入此檔案中以覆寫預設值
+{
+    "editor.fontSize": 15,
+    "editor.tabSize": 2,
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.external.osxExec": "/bin/zsh",
+    "files.trimTrailingWhitespace": true,
+    "workbench.editor.enablePreviewFromQuickOpen": false,
+    "files.insertFinalNewline": true,
+    "ruby.lint": {
+        "reek": true
+    }
+}
