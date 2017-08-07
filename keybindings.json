@@ -1,0 +1,5 @@
+// 將您的按鍵組合放入此檔案中以覆寫預設值
+[
+  { "key": "shift+cmd+`",                "command": "workbench.action.terminal.toggleTerminal" },
+  { "key": "ctrl+cmd+down",              "command": "workbench.files.action.collapseExplorerFolders"}
+]
